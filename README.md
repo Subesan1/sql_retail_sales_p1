@@ -202,7 +202,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/subesantp)
-- **Email**: [To Communicate efficiently Email me](mailto:subesaninnovative@gmail.com)
+- **Email**: [To Communicate efficiently] [Email me](mailto:subesaninnovative@gmail.com)
 
 Thank you,and I look forward to connecting with you!
+
 
