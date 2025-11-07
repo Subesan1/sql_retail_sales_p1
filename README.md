@@ -89,7 +89,7 @@ WHERE
     quantity >= 4;
 ```
 
-3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
+3. **Write a SQL query to calculate the total sales (total_sale) for each category**:
 ```sql
 SELECT 
     category,
@@ -99,7 +99,7 @@ FROM retail_sales
 GROUP BY 1;
 ```
 
-4. **Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.**:
+4. **Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category**:
 ```sql
 SELECT
     ROUND(AVG(age)) as avg_age
@@ -107,13 +107,13 @@ FROM retail_sales
 WHERE category = 'Beauty';
 ```
 
-5. **Write a SQL query to find all transactions where the total_sale is greater than 1000.**:
+5. **Write a SQL query to find all transactions where the total_sale is greater than 1000**:
 ```sql
 SELECT * FROM retail_sales
 WHERE total_sale > 1000;
 ```
 
-6. **Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.**:
+6. **Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category**:
 ```sql
 SELECT 
     category,
@@ -148,7 +148,7 @@ ORDER BY 2 DESC
 LIMIT 5;
 ```
 
-9. **Write a SQL query to find the number of unique customers who purchased items from each category.**:
+9. **Write a SQL query to find the number of unique customers who purchased items from each category**:
 ```sql
 select category,
 count(distinct customer_id) as unique_customers 
@@ -202,10 +202,12 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/subesantp)
-- **Email**: [To Communicate efficiently] [Email me](mailto:subesaninnovative@gmail.com)
+- **Email**: [To Communicate efficiently] <a href="mailto:subesaninnovative@gmail.com">subesaninnovative@gmail.com</a>
+
 
 
 Thank you,and I look forward to connecting with you!
+
 
 
 
